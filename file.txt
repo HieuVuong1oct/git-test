@@ -1,2 +1,6 @@
 helo a b c d
+<<<<<<< HEAD
 helo
+=======
+chao a
+>>>>>>> nhanh2
