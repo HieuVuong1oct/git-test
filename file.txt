@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 a
+=======
+helo a b c d
+helo a b
+>>>>>>> nhanh2
